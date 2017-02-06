@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Home Page
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <h5>The page should be accessable only if a user is logged in! </h5>
+  <p>
+    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will be your guide.
+  </p>
+
+  <button ion-button round block (click)="check()">Check</button>
+
+ 
+    <ion-card *ngIf="loggedUser">
+
+        <ion-item *ngIf="loggedUser.name">
+            <ion-avatar item-left>
+              <img src="{{ loggedUser.picture }}">
+            </ion-avatar>
+            <h2>{{ loggedUser.name }}</h2>
+            <p> {{ loggedUser.picture }}</p>
+        </ion-item>
+
+    </ion-card>
+
+
+  </ion-content>
