@@ -13,8 +13,8 @@ A simple app which uses firebase-auth in Ionic 2 apps
 > Facebook: https://developers.facebook.com
 
 
-![alt tag](http://saideep-chhetri.co.uk/images/others/Screen%20Shot%202017-02-05%20at%2013.49.53.png)
+![alt tag](http://saideep-chhetri.co.uk/Extra%20Images/Screen%20Shot%202017-02-05%20at%2013.49.53.png)
 
-![alt tag](http://saideep-chhetri.co.uk/images/others/Screen%20Shot%202017-02-05%20at%2023.47.02.png)
+![alt tag](http://saideep-chhetri.co.uk/Extra%20Images/Screen%20Shot%202017-02-05%20at%2023.47.02.png)
 
-![alt tag](http://saideep-chhetri.co.uk/images/others/Screen%20Shot%202017-02-05%20at%2023.56.33.png)
+![alt tag](http://saideep-chhetri.co.uk/Extra%20Images/Screen%20Shot%202017-02-05%20at%2023.56.33.png)
